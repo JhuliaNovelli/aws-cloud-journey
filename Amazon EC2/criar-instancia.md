@@ -34,7 +34,7 @@ Hoje eu aprendi como criar uma instância EC2 na AWS usando o Free Tier, ideal p
 
 ### Configuração do WSL no Windows
 
-[Passo a Passo para configuração do WSL]()
+[Passo a Passo para configuração do WSL](https://github.com/JhuliaNovelli/linux-fundamentals/blob/main/config-wsl.md)
 
 
 ## Configuração de Rede

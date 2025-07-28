@@ -28,3 +28,7 @@
 4. Conectei à minha instância EC2
 
 Com tudo pronto, usei o comando SSH fornecido pela AWS para acessar minha instância EC2. 
+
+### Configuração do WSL no Windows
+
+[Passo a Passo para configuração do WSL](https://github.com/JhuliaNovelli/linux-fundamentals/blob/main/config-wsl.md)
