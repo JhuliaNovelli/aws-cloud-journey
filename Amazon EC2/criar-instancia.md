@@ -28,9 +28,13 @@ Hoje eu aprendi como criar uma instância EC2 na AWS usando o Free Tier, ideal p
 
     Salvei o arquivo .pem na minha máquina, pois ele será necessário para a conexão.
 
-## Configuração do .pem WSL
+### Configuração do .pem WSL
 
 [Passo a Passo para configuração do .pem no linux WSL](https://github.com/JhuliaNovelli/aws-cloud-journey/blob/main/Amazon%20EC2/arquivo(.pem).md)
+
+### Configuração do WSL no Windows
+
+[Passo a Passo para configuração do WSL]()
 
 
 ## Configuração de Rede
